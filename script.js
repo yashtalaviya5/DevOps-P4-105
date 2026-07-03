@@ -1,3 +1,4 @@
 function showMessage()
 {
-    alert("Hello from Jenkins!");
+    alert("Hello from Jenkins!")
+)
